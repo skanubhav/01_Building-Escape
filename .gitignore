@@ -1,0 +1,14 @@
+# Unreal Genrated Files#
+
+
+*/Build/
+*/Binaries/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved
+Building_Escape/Content/StarterContent/
+
+
+#Visual Studio Genrated Files#
+*VC.db
+Building_Escape/.vs/Building_Escape/v15/
